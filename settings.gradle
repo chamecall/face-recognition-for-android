@@ -1,0 +1,3 @@
+rootProject.name='JavaCVTest'
+include ':app'
+include ':openCVLibrary343'
